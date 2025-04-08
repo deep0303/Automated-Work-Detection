@@ -1,0 +1,456 @@
+Frame 0 [2025-04-08 15:21:08]: Working
+Frame 1 [2025-04-08 15:21:08]: Working
+Frame 2 [2025-04-08 15:21:08]: Working
+Frame 3 [2025-04-08 15:21:08]: Working
+Frame 4 [2025-04-08 15:21:08]: Working
+Frame 5 [2025-04-08 15:21:08]: Working
+Frame 6 [2025-04-08 15:21:09]: Working
+Frame 7 [2025-04-08 15:21:09]: Working
+Frame 8 [2025-04-08 15:21:09]: Working
+Frame 9 [2025-04-08 15:21:09]: Working
+Frame 10 [2025-04-08 15:21:09]: Working
+Frame 11 [2025-04-08 15:21:09]: Working
+Frame 12 [2025-04-08 15:21:10]: Working
+Frame 13 [2025-04-08 15:21:10]: Working
+Frame 14 [2025-04-08 15:21:10]: Working
+Frame 15 [2025-04-08 15:21:10]: Working
+Frame 16 [2025-04-08 15:21:10]: Working
+Frame 17 [2025-04-08 15:21:10]: Working
+Frame 18 [2025-04-08 15:21:10]: Working
+Frame 19 [2025-04-08 15:21:11]: Working
+Frame 20 [2025-04-08 15:21:11]: Working
+Frame 21 [2025-04-08 15:21:11]: Working
+Frame 22 [2025-04-08 15:21:11]: Working
+Frame 23 [2025-04-08 15:21:12]: Working
+Frame 24 [2025-04-08 15:21:12]: Working
+Frame 25 [2025-04-08 15:21:12]: Working
+Frame 26 [2025-04-08 15:21:12]: Working
+Frame 27 [2025-04-08 15:21:12]: Working
+Frame 28 [2025-04-08 15:21:12]: Working
+Frame 29 [2025-04-08 15:21:12]: Working
+Frame 30 [2025-04-08 15:21:13]: Working
+Frame 31 [2025-04-08 15:21:13]: Working
+Frame 32 [2025-04-08 15:21:13]: Working
+Frame 33 [2025-04-08 15:21:13]: Working
+Frame 34 [2025-04-08 15:21:13]: Working
+Frame 35 [2025-04-08 15:21:13]: Working
+Frame 36 [2025-04-08 15:21:13]: Working
+Frame 37 [2025-04-08 15:21:14]: Working
+Frame 38 [2025-04-08 15:21:14]: Working
+Frame 39 [2025-04-08 15:21:14]: Working
+Frame 40 [2025-04-08 15:21:14]: Working
+Frame 41 [2025-04-08 15:21:14]: Working
+Frame 42 [2025-04-08 15:21:14]: Working
+Frame 43 [2025-04-08 15:21:15]: Working
+Frame 44 [2025-04-08 15:21:15]: Working
+Frame 45 [2025-04-08 15:21:15]: Working
+Frame 46 [2025-04-08 15:21:15]: Working
+Frame 47 [2025-04-08 15:21:15]: Working
+Frame 48 [2025-04-08 15:21:15]: Working
+Frame 49 [2025-04-08 15:21:16]: Working
+Frame 50 [2025-04-08 15:21:16]: Working
+Frame 51 [2025-04-08 15:21:16]: Working
+Frame 52 [2025-04-08 15:21:16]: Working
+Frame 53 [2025-04-08 15:21:16]: Working
+Frame 54 [2025-04-08 15:21:16]: Working
+Frame 55 [2025-04-08 15:21:16]: Working
+Frame 56 [2025-04-08 15:21:17]: Working
+Frame 57 [2025-04-08 15:21:17]: Working
+Frame 58 [2025-04-08 15:21:17]: Working
+Frame 59 [2025-04-08 15:21:17]: Working
+Frame 60 [2025-04-08 15:21:17]: Working
+Frame 61 [2025-04-08 15:21:17]: Working
+Frame 62 [2025-04-08 15:21:18]: Working
+Frame 63 [2025-04-08 15:21:18]: Working
+Frame 64 [2025-04-08 15:21:18]: Working
+Frame 65 [2025-04-08 15:21:18]: Working
+Frame 66 [2025-04-08 15:21:18]: Working
+Frame 67 [2025-04-08 15:21:18]: Working
+Frame 68 [2025-04-08 15:21:18]: Working
+Frame 69 [2025-04-08 15:21:19]: Working
+Frame 70 [2025-04-08 15:21:19]: Working
+Frame 71 [2025-04-08 15:21:19]: Working
+Frame 72 [2025-04-08 15:21:19]: Working
+Frame 73 [2025-04-08 15:21:19]: Working
+Frame 74 [2025-04-08 15:21:19]: Working
+Frame 75 [2025-04-08 15:21:19]: Working
+Frame 76 [2025-04-08 15:21:20]: Working
+Frame 77 [2025-04-08 15:21:20]: Working
+Frame 78 [2025-04-08 15:21:20]: Working
+Frame 79 [2025-04-08 15:21:20]: Working
+Frame 80 [2025-04-08 15:21:20]: Working
+Frame 81 [2025-04-08 15:21:20]: Working
+Frame 82 [2025-04-08 15:21:21]: Working
+Frame 83 [2025-04-08 15:21:21]: Working
+Frame 84 [2025-04-08 15:21:21]: Working
+Frame 85 [2025-04-08 15:21:21]: Working
+Frame 86 [2025-04-08 15:21:21]: Working
+Frame 87 [2025-04-08 15:21:21]: Working
+Frame 88 [2025-04-08 15:21:21]: Working
+Frame 89 [2025-04-08 15:21:22]: Working
+Frame 90 [2025-04-08 15:21:22]: Working
+Frame 91 [2025-04-08 15:21:22]: Working
+Frame 92 [2025-04-08 15:21:22]: Working
+Frame 93 [2025-04-08 15:21:22]: Working
+Frame 94 [2025-04-08 15:21:22]: Working
+Frame 95 [2025-04-08 15:21:23]: Working
+Frame 96 [2025-04-08 15:21:23]: Working
+Frame 97 [2025-04-08 15:21:23]: Working
+Frame 98 [2025-04-08 15:21:23]: Working
+Frame 99 [2025-04-08 15:21:23]: Working
+Frame 100 [2025-04-08 15:21:24]: Working
+Frame 101 [2025-04-08 15:21:24]: Working
+Frame 102 [2025-04-08 15:21:24]: Working
+Frame 103 [2025-04-08 15:21:24]: Working
+Frame 104 [2025-04-08 15:21:24]: Working
+Frame 105 [2025-04-08 15:21:24]: Working
+Frame 106 [2025-04-08 15:21:25]: Working
+Frame 107 [2025-04-08 15:21:25]: Working
+Frame 108 [2025-04-08 15:21:25]: Working
+Frame 109 [2025-04-08 15:21:25]: Working
+Frame 110 [2025-04-08 15:21:25]: Working
+Frame 111 [2025-04-08 15:21:25]: Working
+Frame 112 [2025-04-08 15:21:26]: Working
+Frame 113 [2025-04-08 15:21:26]: Working
+Frame 114 [2025-04-08 15:21:26]: Working
+Frame 115 [2025-04-08 15:21:26]: Working
+Frame 116 [2025-04-08 15:21:26]: Working
+Frame 117 [2025-04-08 15:21:26]: Working
+Frame 118 [2025-04-08 15:21:27]: Working
+Frame 119 [2025-04-08 15:21:27]: Working
+Frame 120 [2025-04-08 15:21:27]: Working
+Frame 121 [2025-04-08 15:21:27]: Working
+Frame 122 [2025-04-08 15:21:27]: Working
+Frame 123 [2025-04-08 15:21:27]: Working
+Frame 124 [2025-04-08 15:21:28]: Working
+Frame 125 [2025-04-08 15:21:28]: Working
+Frame 126 [2025-04-08 15:21:28]: Working
+Frame 127 [2025-04-08 15:21:28]: Working
+Frame 128 [2025-04-08 15:21:28]: Working
+Frame 129 [2025-04-08 15:21:28]: Working
+Frame 130 [2025-04-08 15:21:29]: Working
+Frame 131 [2025-04-08 15:21:29]: Working
+Frame 132 [2025-04-08 15:21:29]: Working
+Frame 133 [2025-04-08 15:21:29]: Working
+Frame 134 [2025-04-08 15:21:29]: Working
+Frame 135 [2025-04-08 15:21:29]: Working
+Frame 136 [2025-04-08 15:21:30]: Working
+Frame 137 [2025-04-08 15:21:30]: Working
+Frame 138 [2025-04-08 15:21:30]: Working
+Frame 139 [2025-04-08 15:21:30]: Working
+Frame 140 [2025-04-08 15:21:30]: Working
+Frame 141 [2025-04-08 15:21:30]: Working
+Frame 142 [2025-04-08 15:21:30]: Working
+Frame 143 [2025-04-08 15:21:31]: Working
+Frame 144 [2025-04-08 15:21:31]: Working
+Frame 145 [2025-04-08 15:21:31]: Working
+Frame 146 [2025-04-08 15:21:31]: Working
+Frame 147 [2025-04-08 15:21:31]: Working
+Frame 148 [2025-04-08 15:21:31]: Working
+Frame 149 [2025-04-08 15:21:32]: Working
+Frame 150 [2025-04-08 15:21:32]: Working
+Frame 151 [2025-04-08 15:21:32]: Working
+Frame 152 [2025-04-08 15:21:32]: Working
+Frame 153 [2025-04-08 15:21:32]: Working
+Frame 154 [2025-04-08 15:21:32]: Working
+Frame 155 [2025-04-08 15:21:32]: Working
+Frame 156 [2025-04-08 15:21:33]: Working
+Frame 157 [2025-04-08 15:21:33]: Working
+Frame 158 [2025-04-08 15:21:33]: Working
+Frame 159 [2025-04-08 15:21:33]: Working
+Frame 160 [2025-04-08 15:21:33]: Working
+Frame 161 [2025-04-08 15:21:33]: Working
+Frame 162 [2025-04-08 15:21:34]: Working
+Frame 163 [2025-04-08 15:21:34]: Working
+Frame 164 [2025-04-08 15:21:34]: Working
+Frame 165 [2025-04-08 15:21:34]: Working
+Frame 166 [2025-04-08 15:21:34]: Working
+Frame 167 [2025-04-08 15:21:34]: Working
+Frame 168 [2025-04-08 15:21:35]: Working
+Frame 169 [2025-04-08 15:21:35]: Working
+Frame 170 [2025-04-08 15:21:35]: Working
+Frame 171 [2025-04-08 15:21:35]: Working
+Frame 172 [2025-04-08 15:21:35]: Working
+Frame 173 [2025-04-08 15:21:35]: Working
+Frame 174 [2025-04-08 15:21:35]: Working
+Frame 175 [2025-04-08 15:21:36]: Working
+Frame 176 [2025-04-08 15:21:36]: Working
+Frame 177 [2025-04-08 15:21:36]: Working
+Frame 178 [2025-04-08 15:21:36]: Working
+Frame 179 [2025-04-08 15:21:36]: Working
+Frame 180 [2025-04-08 15:21:37]: Working
+Frame 181 [2025-04-08 15:21:37]: Working
+Frame 182 [2025-04-08 15:21:37]: Working
+Frame 183 [2025-04-08 15:21:37]: Working
+Frame 184 [2025-04-08 15:21:37]: Working
+Frame 185 [2025-04-08 15:21:37]: Working
+Frame 186 [2025-04-08 15:21:38]: Working
+Frame 187 [2025-04-08 15:21:38]: Working
+Frame 188 [2025-04-08 15:21:38]: Working
+Frame 189 [2025-04-08 15:21:38]: Working
+Frame 190 [2025-04-08 15:21:38]: Working
+Frame 191 [2025-04-08 15:21:38]: Working
+Frame 192 [2025-04-08 15:21:38]: Working
+Frame 193 [2025-04-08 15:21:39]: Working
+Frame 194 [2025-04-08 15:21:39]: Working
+Frame 195 [2025-04-08 15:21:39]: Working
+Frame 196 [2025-04-08 15:21:39]: Working
+Frame 197 [2025-04-08 15:21:39]: Working
+Frame 198 [2025-04-08 15:21:39]: Working
+Frame 199 [2025-04-08 15:21:40]: Working
+Frame 200 [2025-04-08 15:21:40]: Working
+Frame 201 [2025-04-08 15:21:40]: Working
+Frame 202 [2025-04-08 15:21:40]: Working
+Frame 203 [2025-04-08 15:21:40]: Working
+Frame 204 [2025-04-08 15:21:40]: Working
+Frame 205 [2025-04-08 15:21:40]: Working
+Frame 206 [2025-04-08 15:21:41]: Working
+Frame 207 [2025-04-08 15:21:41]: Working
+Frame 208 [2025-04-08 15:21:41]: Working
+Frame 209 [2025-04-08 15:21:41]: Working
+Frame 210 [2025-04-08 15:21:41]: Working
+Frame 211 [2025-04-08 15:21:41]: Working
+Frame 212 [2025-04-08 15:21:41]: Working
+Frame 213 [2025-04-08 15:21:42]: Working
+Frame 214 [2025-04-08 15:21:42]: Working
+Frame 215 [2025-04-08 15:21:42]: Working
+Frame 216 [2025-04-08 15:21:42]: Working
+Frame 217 [2025-04-08 15:21:42]: Working
+Frame 218 [2025-04-08 15:21:42]: Working
+Frame 219 [2025-04-08 15:21:43]: Working
+Frame 220 [2025-04-08 15:21:43]: Working
+Frame 221 [2025-04-08 15:21:43]: Working
+Frame 222 [2025-04-08 15:21:43]: Working
+Frame 223 [2025-04-08 15:21:43]: Working
+Frame 224 [2025-04-08 15:21:43]: Working
+Frame 225 [2025-04-08 15:21:43]: Working
+Frame 226 [2025-04-08 15:21:44]: Working
+Frame 227 [2025-04-08 15:21:44]: Working
+Frame 228 [2025-04-08 15:21:44]: Working
+Frame 229 [2025-04-08 15:21:44]: Working
+Frame 230 [2025-04-08 15:21:44]: Working
+Frame 231 [2025-04-08 15:21:44]: Working
+Frame 232 [2025-04-08 15:21:45]: Working
+Frame 233 [2025-04-08 15:21:45]: Working
+Frame 234 [2025-04-08 15:21:45]: Working
+Frame 235 [2025-04-08 15:21:45]: Working
+Frame 236 [2025-04-08 15:21:45]: Working
+Frame 237 [2025-04-08 15:21:45]: Working
+Frame 238 [2025-04-08 15:21:46]: Working
+Frame 239 [2025-04-08 15:21:46]: Working
+Frame 240 [2025-04-08 15:21:46]: Working
+Frame 241 [2025-04-08 15:21:46]: Working
+Frame 242 [2025-04-08 15:21:46]: Working
+Frame 243 [2025-04-08 15:21:46]: Working
+Frame 244 [2025-04-08 15:21:46]: Working
+Frame 245 [2025-04-08 15:21:47]: Working
+Frame 246 [2025-04-08 15:21:47]: Working
+Frame 247 [2025-04-08 15:21:47]: Working
+Frame 248 [2025-04-08 15:21:47]: Working
+Frame 249 [2025-04-08 15:21:47]: Working
+Frame 250 [2025-04-08 15:21:47]: Working
+Frame 251 [2025-04-08 15:21:48]: Working
+Frame 252 [2025-04-08 15:21:48]: Working
+Frame 253 [2025-04-08 15:21:48]: Working
+Frame 254 [2025-04-08 15:21:48]: Working
+Frame 255 [2025-04-08 15:21:48]: Working
+Frame 256 [2025-04-08 15:21:48]: Working
+Frame 257 [2025-04-08 15:21:48]: Working
+Frame 258 [2025-04-08 15:21:48]: Working
+Frame 259 [2025-04-08 15:21:49]: Working
+Frame 260 [2025-04-08 15:21:49]: Working
+Frame 261 [2025-04-08 15:21:49]: Working
+Frame 262 [2025-04-08 15:21:49]: Working
+Frame 263 [2025-04-08 15:21:49]: Working
+Frame 264 [2025-04-08 15:21:50]: Working
+Frame 265 [2025-04-08 15:21:50]: Working
+Frame 266 [2025-04-08 15:21:50]: Working
+Frame 267 [2025-04-08 15:21:50]: Working
+Frame 268 [2025-04-08 15:21:50]: Working
+Frame 269 [2025-04-08 15:21:50]: Working
+Frame 270 [2025-04-08 15:21:50]: Working
+Frame 271 [2025-04-08 15:21:51]: Working
+Frame 272 [2025-04-08 15:21:51]: Working
+Frame 273 [2025-04-08 15:21:51]: Working
+Frame 274 [2025-04-08 15:21:51]: Working
+Frame 275 [2025-04-08 15:21:51]: Working
+Frame 276 [2025-04-08 15:21:51]: Working
+Frame 277 [2025-04-08 15:21:52]: Working
+Frame 278 [2025-04-08 15:21:52]: Working
+Frame 279 [2025-04-08 15:21:52]: Working
+Frame 280 [2025-04-08 15:21:52]: Working
+Frame 281 [2025-04-08 15:21:52]: Working
+Frame 282 [2025-04-08 15:21:52]: Working
+Frame 283 [2025-04-08 15:21:52]: Working
+Frame 284 [2025-04-08 15:21:53]: Working
+Frame 285 [2025-04-08 15:21:53]: Working
+Frame 286 [2025-04-08 15:21:53]: Working
+Frame 287 [2025-04-08 15:21:53]: Working
+Frame 288 [2025-04-08 15:21:53]: Working
+Frame 289 [2025-04-08 15:21:53]: Working
+Frame 290 [2025-04-08 15:21:54]: Working
+Frame 291 [2025-04-08 15:21:54]: Working
+Frame 292 [2025-04-08 15:21:54]: Working
+Frame 293 [2025-04-08 15:21:54]: Working
+Frame 294 [2025-04-08 15:21:54]: Working
+Frame 295 [2025-04-08 15:21:54]: Working
+Frame 296 [2025-04-08 15:21:55]: Working
+Frame 297 [2025-04-08 15:21:55]: Working
+Frame 298 [2025-04-08 15:21:55]: Working
+Frame 299 [2025-04-08 15:21:55]: Working
+Frame 300 [2025-04-08 15:21:55]: Working
+Frame 301 [2025-04-08 15:21:55]: Working
+Frame 302 [2025-04-08 15:21:56]: Working
+Frame 303 [2025-04-08 15:21:56]: Working
+Frame 304 [2025-04-08 15:21:56]: Working
+Frame 305 [2025-04-08 15:21:56]: Working
+Frame 306 [2025-04-08 15:21:56]: Working
+Frame 307 [2025-04-08 15:21:56]: Working
+Frame 308 [2025-04-08 15:21:57]: Working
+Frame 309 [2025-04-08 15:21:57]: Working
+Frame 310 [2025-04-08 15:21:57]: Working
+Frame 311 [2025-04-08 15:21:57]: Working
+Frame 312 [2025-04-08 15:21:57]: Working
+Frame 313 [2025-04-08 15:21:57]: Working
+Frame 314 [2025-04-08 15:21:58]: Working
+Frame 315 [2025-04-08 15:21:58]: Working
+Frame 316 [2025-04-08 15:21:58]: Working
+Frame 317 [2025-04-08 15:21:58]: Working
+Frame 318 [2025-04-08 15:21:58]: Working
+Frame 319 [2025-04-08 15:21:58]: Working
+Frame 320 [2025-04-08 15:21:58]: Working
+Frame 321 [2025-04-08 15:21:59]: Working
+Frame 322 [2025-04-08 15:21:59]: Working
+Frame 323 [2025-04-08 15:21:59]: Working
+Frame 324 [2025-04-08 15:21:59]: Working
+Frame 325 [2025-04-08 15:21:59]: Working
+Frame 326 [2025-04-08 15:21:59]: Working
+Frame 327 [2025-04-08 15:21:59]: Working
+Frame 328 [2025-04-08 15:22:00]: Working
+Frame 329 [2025-04-08 15:22:00]: Working
+Frame 330 [2025-04-08 15:22:00]: Working
+Frame 331 [2025-04-08 15:22:00]: Working
+Frame 332 [2025-04-08 15:22:00]: Working
+Frame 333 [2025-04-08 15:22:01]: Not Working
+Frame 334 [2025-04-08 15:22:01]: Not Working
+Frame 335 [2025-04-08 15:22:01]: Not Working
+Frame 336 [2025-04-08 15:22:01]: Not Working
+Frame 337 [2025-04-08 15:22:01]: Not Working
+Frame 338 [2025-04-08 15:22:01]: Not Working
+Frame 339 [2025-04-08 15:22:02]: Not Working
+Frame 340 [2025-04-08 15:22:02]: Not Working
+Frame 341 [2025-04-08 15:22:02]: Not Working
+Frame 342 [2025-04-08 15:22:02]: Not Working
+Frame 343 [2025-04-08 15:22:03]: Not Working
+Frame 344 [2025-04-08 15:22:03]: Not Working
+Frame 345 [2025-04-08 15:22:03]: Not Working
+Frame 346 [2025-04-08 15:22:03]: Not Working
+Frame 347 [2025-04-08 15:22:03]: Not Working
+Frame 348 [2025-04-08 15:22:03]: Not Working
+Frame 349 [2025-04-08 15:22:04]: Not Working
+Frame 350 [2025-04-08 15:22:04]: Not Working
+Frame 351 [2025-04-08 15:22:04]: Not Working
+Frame 352 [2025-04-08 15:22:04]: Not Working
+Frame 353 [2025-04-08 15:22:04]: Not Working
+Frame 354 [2025-04-08 15:22:04]: Not Working
+Frame 355 [2025-04-08 15:22:05]: Not Working
+Frame 356 [2025-04-08 15:22:05]: Not Working
+Frame 357 [2025-04-08 15:22:05]: Not Working
+Frame 358 [2025-04-08 15:22:05]: Not Working
+Frame 359 [2025-04-08 15:22:05]: Not Working
+Frame 360 [2025-04-08 15:22:06]: Not Working
+Frame 361 [2025-04-08 15:22:06]: Not Working
+Frame 362 [2025-04-08 15:22:06]: Not Working
+Frame 363 [2025-04-08 15:22:06]: Not Working
+Frame 364 [2025-04-08 15:22:06]: Not Working
+Frame 365 [2025-04-08 15:22:06]: Not Working
+Frame 366 [2025-04-08 15:22:07]: Not Working
+Frame 367 [2025-04-08 15:22:07]: Not Working
+Frame 368 [2025-04-08 15:22:07]: Not Working
+Frame 369 [2025-04-08 15:22:07]: Not Working
+Frame 370 [2025-04-08 15:22:07]: Not Working
+Frame 371 [2025-04-08 15:22:08]: Not Working
+Frame 372 [2025-04-08 15:22:08]: Not Working
+Frame 373 [2025-04-08 15:22:08]: Not Working
+Frame 374 [2025-04-08 15:22:08]: Not Working
+Frame 375 [2025-04-08 15:22:09]: Not Working
+Frame 376 [2025-04-08 15:22:09]: Working
+Frame 377 [2025-04-08 15:22:09]: Not Working
+Frame 378 [2025-04-08 15:22:09]: Not Working
+Frame 379 [2025-04-08 15:22:10]: Not Working
+Frame 380 [2025-04-08 15:22:10]: Not Working
+Frame 381 [2025-04-08 15:22:10]: Not Working
+Frame 382 [2025-04-08 15:22:10]: Not Working
+Frame 383 [2025-04-08 15:22:11]: Not Working
+Frame 384 [2025-04-08 15:22:11]: Not Working
+Frame 385 [2025-04-08 15:22:11]: Not Working
+Frame 386 [2025-04-08 15:22:11]: Not Working
+Frame 387 [2025-04-08 15:22:11]: Not Working
+Frame 388 [2025-04-08 15:22:12]: Working
+Frame 389 [2025-04-08 15:22:12]: Working
+Frame 390 [2025-04-08 15:22:12]: Not Working
+Frame 391 [2025-04-08 15:22:12]: Not Working (Hand on Head)
+Frame 392 [2025-04-08 15:22:13]: Not Working (Hand on Head)
+Frame 393 [2025-04-08 15:22:13]: Not Working (Hand on Head)
+Frame 394 [2025-04-08 15:22:13]: Not Working (Hand on Head)
+Frame 395 [2025-04-08 15:22:13]: Not Working (Hand on Head)
+Frame 396 [2025-04-08 15:22:14]: Not Working (Hand on Head)
+Frame 397 [2025-04-08 15:22:14]: Not Working (Hand on Head)
+Frame 398 [2025-04-08 15:22:14]: Not Working (Hand on Head)
+Frame 399 [2025-04-08 15:22:14]: Not Working (Hand on Head)
+Frame 400 [2025-04-08 15:22:15]: Not Working (Hand on Head)
+Frame 401 [2025-04-08 15:22:15]: Not Working (Hand on Head)
+Frame 402 [2025-04-08 15:22:15]: Not Working
+Frame 403 [2025-04-08 15:22:15]: Not Working
+Frame 404 [2025-04-08 15:22:15]: Not Working
+Frame 405 [2025-04-08 15:22:16]: Not Working
+Frame 406 [2025-04-08 15:22:16]: Not Working
+Frame 407 [2025-04-08 15:22:16]: Not Working
+Frame 408 [2025-04-08 15:22:16]: Not Working
+Frame 409 [2025-04-08 15:22:17]: Not Working
+Frame 410 [2025-04-08 15:22:17]: Not Working
+Frame 411 [2025-04-08 15:22:17]: Not Working
+Frame 412 [2025-04-08 15:22:17]: Not Working
+Frame 413 [2025-04-08 15:22:17]: Not Working
+Frame 414 [2025-04-08 15:22:18]: Not Working
+Frame 415 [2025-04-08 15:22:18]: Not Working
+Frame 416 [2025-04-08 15:22:18]: Not Working
+Frame 417 [2025-04-08 15:22:18]: Not Working
+Frame 418 [2025-04-08 15:22:19]: Not Working
+Frame 419 [2025-04-08 15:22:19]: Not Working
+Frame 420 [2025-04-08 15:22:19]: Not Working
+Frame 421 [2025-04-08 15:22:19]: Not Working
+Frame 422 [2025-04-08 15:22:19]: Not Working
+Frame 423 [2025-04-08 15:22:20]: Not Working
+Frame 424 [2025-04-08 15:22:20]: Not Working
+Frame 425 [2025-04-08 15:22:20]: Not Working
+Frame 426 [2025-04-08 15:22:20]: Not Working
+Frame 427 [2025-04-08 15:22:20]: Not Working
+Frame 428 [2025-04-08 15:22:21]: Not Working
+Frame 429 [2025-04-08 15:22:21]: Not Working
+Frame 430 [2025-04-08 15:22:21]: Not Working
+Frame 431 [2025-04-08 15:22:21]: Not Working
+Frame 432 [2025-04-08 15:22:22]: Not Working
+Frame 433 [2025-04-08 15:22:22]: Not Working
+Frame 434 [2025-04-08 15:22:22]: Not Working
+Frame 435 [2025-04-08 15:22:22]: Not Working
+Frame 436 [2025-04-08 15:22:23]: Not Working
+Frame 437 [2025-04-08 15:22:23]: Not Working
+Frame 438 [2025-04-08 15:22:23]: Not Working
+Frame 439 [2025-04-08 15:22:23]: Not Working
+Frame 440 [2025-04-08 15:22:23]: Not Working
+Frame 441 [2025-04-08 15:22:24]: Not Working
+Frame 442 [2025-04-08 15:22:24]: Not Working
+Frame 443 [2025-04-08 15:22:24]: Not Working
+Frame 444 [2025-04-08 15:22:24]: Not Working
+Frame 445 [2025-04-08 15:22:24]: Not Working
+Frame 446 [2025-04-08 15:22:24]: Not Working
+Frame 447 [2025-04-08 15:22:24]: Not Working
+Frame 448 [2025-04-08 15:22:24]: Not Working
+Frame 449 [2025-04-08 15:22:24]: Not Working
+Frame 450 [2025-04-08 15:22:24]: Not Working
+Frame 451 [2025-04-08 15:22:24]: Not Working
+Frame 452 [2025-04-08 15:22:24]: Not Working
+Frame 453 [2025-04-08 15:22:25]: Not Working
+Frame 454 [2025-04-08 15:22:25]: Not Working
+Frame 455 [2025-04-08 15:22:25]: Not Working

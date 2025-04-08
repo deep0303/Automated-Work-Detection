@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Activity Monitor</title>
+    <style>
+        body { text-align: center; font-family: Arial, sans-serif; margin: 20px; }
+        img { max-width: 80%; height: auto; border: 2px solid #ccc; }
+        .upload-section { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Employee Activity Monitor</h1>
+    <div class="upload-section">
+        <form method="POST" enctype="multipart/form-data">
+            <input type="file" name="file" accept="video/*">
+            <input type="submit" value="Upload Video">
+        </form>
+    </div>
+    {% if video_path %}
+        <h3>Processed Video</h3>
+        <img src="{{ url_for('video_feed') }}" alt="Video Feed">
+    {% else %}
+        <p>No video uploaded yet. Please upload a video to analyze.</p>
+    {% endif %}
+</body>
+</html>
